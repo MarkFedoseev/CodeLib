@@ -1,0 +1,5 @@
+D:\Документы\Visual Studio 2015\Projects\CodeLib\CodeLib\bin\Debug\CodeLib.dll
+D:\Документы\Visual Studio 2015\Projects\CodeLib\CodeLib\bin\Debug\CodeLib.pdb
+D:\Документы\Visual Studio 2015\Projects\CodeLib\CodeLib\obj\Debug\CodeLib.csprojResolveAssemblyReference.cache
+D:\Документы\Visual Studio 2015\Projects\CodeLib\CodeLib\obj\Debug\CodeLib.dll
+D:\Документы\Visual Studio 2015\Projects\CodeLib\CodeLib\obj\Debug\CodeLib.pdb
