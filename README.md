@@ -25,5 +25,4 @@ Decode.tabs(string input, int firsttab, int endtab, bool time);
 ```input``` - is your input, ```firsttab``` and ```endtab``` are your values from Encode stage
 
 >2 3
-
-HwgHОgXсgXсgwgiRхiwgXwgiigHwgXiхXHgXсgXHgiigHwgОхXgXbgXigiиgXхwgibgXсgсgHсхbgbЦgXЦgОgiRхОgiЦgXigiwgЦхсgXОgXHgHwgXigiigiRхОgXОgbЦgbЦgiHgXх
+>HwgHОgXсgXсgwgiRхiwgXwgiigHwgXiхXHgXсgXHgiigHwgОхXgXbgXigiиgXхwgibgXсgсgHсхbgbЦgXЦgОgiRхОgiЦgXigiwgЦхсgXОgXHgHwgXigiigiRхОgXОgbЦgbЦgiHgXх
